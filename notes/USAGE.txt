@@ -1,0 +1,4 @@
+USAGE DLSS5-Manager
+dlss5 manager. nvngx slot. reshade.
+Extract. Run. See readme.
+Stamp rev-v8rm9t-20261027
